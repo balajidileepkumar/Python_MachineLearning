@@ -1,0 +1,10 @@
+<data>
+    <items>
+        <item name="item1" value="itemvalue1" tagname = "item" >FirstItem</item>
+        <item name="item2" value="itemvalue2">SecondItem</item>
+    </items>
+	<items>
+        <item name="item1" value="itemvalue1" tagname = "item" >Third Item</item>
+        <item name="item2" value="itemvalue2">Fourth Item</item>
+    </items>
+</data>  
