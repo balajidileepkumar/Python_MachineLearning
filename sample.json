@@ -1,9 +1,21 @@
 {
-                        "key1":
-                                {
-                                    "key2":
-                                         ["jarray value1"]
-                                },
-                        "key3": "abc"
-                    }
-                
+  "firstName": "Bidhan",
+  "lastName": "Chatterjee",
+  "age": 40,
+  "address":{
+  "streetAddress": "144 J B Hazra Road",
+  "city": "Burdwan",
+  "state": "Paschimbanga",
+  "postalCode": "713102" },
+  "phoneNumber":
+			  [
+			  {
+  "type": "personal",
+  "number": "09832209761"
+			  },
+			  {
+  "type": "fax",
+  "number": "91-342-2567692"
+			  }
+	  		  ]	 
+ }

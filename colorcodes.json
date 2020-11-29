@@ -1,11 +1,10 @@
-{ 
-"colors_code " : [
+[
 	{
-		"color" : "red",
+		"color": "red",
 		"value": "#f00"
 	},
 	{
-		"color:": "green",
+		"color": "green",
 		"value": "#0f0"
 	},
 	{
@@ -29,4 +28,3 @@
 		"value": "#000"
 	}
 ]
-}
