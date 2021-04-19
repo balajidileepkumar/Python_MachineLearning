@@ -34,7 +34,6 @@ if(os.path.exists(FileName)):
             #Getting Face Value and LTP
             FaceValue = q['faceValue']
             LTP = q['lastPrice']
-            
             #Validating Dividend Dates
             if((ExDividendDate-CurrentDate).days >=0):
                 print("###############################################################")
