@@ -1,0 +1,63 @@
+table - > employee table -> salary
+
+select * from employee es inner join salary ss on es.id = ss.id
+
+table -> employee table -> address
+
+select * from employee es join address ads on es.name = ads.name
+
+acid
+
+atomicity - >
+consistency ->
+isolation ->
+durability -> 
+
+
+python manage.py createsuperuser
+
+python manage.py makemigrations
+
+python manage.py migrate 
+
+Project Name 
+	settings.py ->	
+	urls.py
+	wsgi.py
+	init.py
+manage.py
+
+urls.py ->
+
+urlpatterns - [
+	path("/home",views.home(),name="")
+]
+
+userid = request.GET.get('id')
+
+def xxxx();
+	render ()
+	return HttpResponse()
+
+class a:
+	def init(self):
+		pass
+class b(a):
+    def init(self):
+		super.init()
+
+
+how to setup load balancer for flask application
+
+how to scale your django or flask application
+
+deep copy and shallow copy in python
+
+what are method views in python django
+
+get the count of max item in a list 
+list(map(lambda x: (list_all.count(x), list_all.index(x)), list_all))
+
+
+implement a custom set class 
+
