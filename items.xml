@@ -1,0 +1,14 @@
+<data>
+    <details>
+        <subdetails person_name="Rajesh" age="25" tagname = "subdetails" >First Person - 0001</subdetails>
+        <subdetails person_name="Ram" age="28">Second Person - 0002</subdetails>
+    </details>
+	<details>
+        <subdetails person_name="Arun" age="31" tagname = "subdetails" abc = "Helloworld">Third Person - 003</subdetails>
+        <subdetails person_name="Patrick" age="26">Fourth Person - 004</subdetails>
+		<subdetails person_name="Aravind" age="58">Fifth Person - 005
+			<innersubdetails person_name="Vingnesh" age="20" tagname = "subdetails" >Sixth Person - 006</innersubdetails>
+			<innersubdetails person_name="Vinay" age="19">Seventh Person - 007</innersubdetails>
+		</subdetails>
+    </details>
+</data>  

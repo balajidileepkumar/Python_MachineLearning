@@ -1,0 +1,14 @@
+<Company>
+    <Dept>
+        <HR name="item1" value="itemvalue1" tagname = "item" >FirstItem</HR>
+        <Finance name="item2" value="itemvalue2">SecondItem</Finance>
+    </Dept>
+	<Inventory>
+        <item name="item3" value="itemvalue1" tagname = "item" abc = "Helloworld">Third Item</item>
+        <item name="item4" value="itemvalue2">Fourth Item</item>
+		<item name="item5" value="itemvalue5">123
+			<item name="item1" value="itemvalue1" tagname = "item" >FirstItem</item>
+			<item name="item2" value="itemvalue2">SecondItem</item>
+		</item>
+    </Inventory>
+</Company> 
