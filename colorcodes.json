@@ -16,8 +16,8 @@
 		"value": "#0ff"
 	},
 	{
-		"color": "magenta",
-		"value": "#f0f"
+		"color" : "magenta",
+		"value" : "#f0f"
 	},
 	{
 		"color": "yellow",
