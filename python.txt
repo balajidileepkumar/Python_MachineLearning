@@ -1,2 +1,0 @@
-Welcome to python
-I am pythonic
