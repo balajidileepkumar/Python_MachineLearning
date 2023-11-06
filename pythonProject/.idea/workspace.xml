@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="133a0c97-531f-4b24-bf66-fcb40261cb98" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../# recursive multi-step forecast with lin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA structures - Python.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonTestProject/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../butterfly_count" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../readpandasfile/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignments/.ipynb_checkpoints/Arun crt assignment-I-checkpoint-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignments/.ipynb_checkpoints/Assignment -I Gladvin-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignments/.ipynb_checkpoints/Assignment-I-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignments/Arun crt assignment-I-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignments/Assignment -I Gladvin.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignments/Assignment-1-Baghyasree.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignments/Assignment-1-Baghyasree.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignments/Assignment-2-ListComprehension.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignments/Assignment-2-ListComprehension.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignments/Assignment-2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignments/Assignment-2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignments/Assignment-3-Numpy.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignments/Assignment-I.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignments/Matplotlib assignment.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignments/Matplotlib assignment.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Django/django.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Django/django.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Introduction/FunctionalProgramming.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Introduction/FunctionalProgramming.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Introduction/reflective programming.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Introduction/reflective programming.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NLP/NaturalLanguageProcessing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../NLP/NaturalLanguageProcessing.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Advanced/.ipynb_checkpoints/Chapter-15-Threading and MultiThreading-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Python Advanced/.ipynb_checkpoints/Chapter-15-Threading and MultiThreading-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Advanced/Chapter-12-JSON CSV and XML Handling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Python Advanced/Chapter-12-JSON CSV and XML Handling.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Advanced/Chapter-13-Lambda-Expressions-Map-and-Filter-Reduce-Generators.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Python Advanced/Chapter-13-Lambda-Expressions-Map-and-Filter-Reduce-Generators.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Advanced/Chapter-14-Regular Expressions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Python Advanced/Chapter-14-Regular Expressions.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Advanced/Chapter-15-Threading and MultiThreading.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Python Advanced/Chapter-15-Threading and MultiThreading.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Advanced/chapter-11-Comprehensions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Python Advanced/chapter-11-Comprehensions.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Advanced/dateutil.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Python Advanced/dateutil.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Advanced/itertools.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Python Advanced/itertools.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basics/.ipynb_checkpoints/Chapter-01-PrintStatements-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Python Basics/.ipynb_checkpoints/Chapter-01-PrintStatements-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basics/.ipynb_checkpoints/Chapter-02-DataTypes-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Python Basics/.ipynb_checkpoints/Chapter-02-DataTypes-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basics/.ipynb_checkpoints/Chapter-04-Conditional &amp; BlockStatements-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Python Basics/.ipynb_checkpoints/Chapter-04-Conditional &amp; BlockStatements-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basics/.ipynb_checkpoints/Chapter-05-Exception Handling-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Python Basics/.ipynb_checkpoints/Chapter-05-Exception Handling-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basics/.ipynb_checkpoints/Chapter-06-Arguments and NamedArguments--checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Python Basics/.ipynb_checkpoints/Chapter-06-Arguments and NamedArguments--checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basics/.ipynb_checkpoints/Chapter-07-Scopes-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Python Basics/.ipynb_checkpoints/Chapter-07-Scopes-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basics/.ipynb_checkpoints/Chapter-09-File Handling-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Python Basics/.ipynb_checkpoints/Chapter-09-File Handling-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basics/Basics of Jupyter Notebook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Python Basics/Basics of Jupyter Notebook.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basics/Chapter-01-PrintStatements.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Python Basics/Chapter-01-PrintStatements.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basics/Chapter-02-DataTypes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Python Basics/Chapter-02-DataTypes.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basics/Chapter-02-Operator Precedence.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Python Basics/Chapter-02-Operator Precedence.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basics/Chapter-03- Operators in Python.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Python Basics/Chapter-03- Operators in Python.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basics/Chapter-04-Conditional &amp; BlockStatements.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Python Basics/Chapter-04-Conditional &amp; BlockStatements.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basics/Chapter-05-Exception Handling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Python Basics/Chapter-05-Exception Handling.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basics/Chapter-06-Arguments and NamedArguments-.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Python Basics/Chapter-06-Arguments and NamedArguments-.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basics/Chapter-07-Scopes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Python Basics/Chapter-07-Scopes.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basics/Chapter-08-DateTimeFunctions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Python Basics/Chapter-08-DateTimeFunctions.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basics/Chapter-09-File Handling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Python Basics/Chapter-09-File Handling.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basics/Chapter-10-Object Oriented Programming.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Python Basics/Chapter-10-Object Oriented Programming.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Datascience/.ipynb_checkpoints/Chapter-16-Pandas-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Python Datascience/.ipynb_checkpoints/Chapter-16-Pandas-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Datascience/.ipynb_checkpoints/Chapter-18-ScikitMachineLearning-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Python Datascience/.ipynb_checkpoints/Chapter-18-ScikitMachineLearning-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Datascience/Chapter-14-Numpy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Python Datascience/Chapter-14-Numpy.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Datascience/Chapter-15-MatPlotLib.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Python Datascience/Chapter-15-MatPlotLib.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Datascience/Chapter-16-Pandas.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Python Datascience/Chapter-16-Pandas.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Datascience/Chapter-18-ScikitMachineLearning.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Python Datascience/Chapter-18-ScikitMachineLearning.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python ETL/MySql.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Python ETL/MySql.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python ETL/Pymongo.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Python ETL/Pymongo.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python ETL/Sql.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Python ETL/Sql.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hours.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../sample2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2LcxJx6vzh1h2EHK9cSyOeixoqc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="133a0c97-531f-4b24-bf66-fcb40261cb98" name="Default Changelist" comment="" />
+      <created>1676184103803</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676184103803</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

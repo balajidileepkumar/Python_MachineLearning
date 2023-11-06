@@ -26,18 +26,19 @@ a=Pen()
 print(type(a))
 a.writedata()
 
-print(isinstance(a, Pen))
+print("isinstance : ",isinstance(a, Pen))
 
 b = BallPointPen()
-print(issubclass(BallPointPen,Pen))
+print("issubclass : ",issubclass(BallPointPen,Pen))
 
 c = Pencil()
-print(issubclass(Pencil,Pen))
+print("is sub class : ",issubclass(Pencil,Pen))
 
 
 import inspect 
 print("#############using inspect################")
 print(inspect.isclass(c))
+
 y = 10
 print(inspect.isclass(y))
 

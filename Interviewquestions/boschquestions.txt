@@ -1,0 +1,68 @@
+C:\Program Files\MongoDB\Server\6.0\data\ -- Data Directory
+C:\Program Files\MongoDB\Server\6.0\log\ -- Log Directory
+
+
+import sys
+import itertools
+# import numpy as np
+# import pandas as pd
+# from sklearn import ...
+
+for line in sys.stdin:
+    out_list = []
+    for x in list(itertools.permutations(line.strip())):
+        out_list.append("".join(x))
+    out_list.sort()
+    output = ",".join(out_list)
+    print(str(output), end="")
+
+
+Write a program that finds all the permutations of a string.
+Input:
+Your program should read lines of text from standard input.
+Output:
+For each line of input, print to standard output all permutations of the string, comma separated, in alphabetical order, one output string per line.
+
+
+Challenge Instructions
+Write an SQL query to get the 3 most popular pizzas for each city.
+
+The schema of the database is shown in the attachments tab.
+
+The goal is to rank the pizza by the count of orders in descending order for each city where orders were made. Pizzas with the same number of orders should be sorted alphabetically in ascending order. For each city, the top 3 pizzas must be selected and concatenated into a final list.
+
+In the final list the pizza names must be delimited by comma and space characters. Items in the list must be sorted alphabetically.
+
+
+select * from 
+(with cte as (select mi.item , pa.city, pa.physical_address_id, ore.order_id, st.store_id from order_record ore
+ join store st on st.store_id = ore.store_id 
+ join physical_address pa on pa.physical_address_id = st.physical_address_id
+ join order_item ori on ori.order_id = ore.order_id
+ join menu_item mi on mi.menu_item_id = ori.menu_item_id ) SELECT cte.city as city,cte.item as pizza_list, count(cte.city) ctycount, count(cte.item) itmcount FROM cte
+ GROUP by cte.city, cte.item HAVING COUNT(cte.city)>=3 order by itmcount desc) as T1
+
+
+
+with cte as (select mi.item , pa.city, pa.physical_address_id, ore.order_id, st.store_id from order_record ore
+ join store st on st.store_id = ore.store_id 
+ join physical_address pa on pa.physical_address_id = st.physical_address_id
+ join order_item ori on ori.order_id = ore.order_id
+ join menu_item mi on mi.menu_item_id = ori.menu_item_id ) SELECT cte.city as city, cte.item as pizza_list, cte.order_id, count(cte.city) as cnt , count(cte.order_id) as cntorder FROM cte group by cte.city, cte.item, cte.order_id order by cntorder desc
+
+
+  with cte as (select mi.item , pa.city, pa.physical_address_id, ore.order_id, st.store_id from order_record ore
+ join store st on st.store_id = ore.store_id 
+ join physical_address pa on pa.physical_address_id = st.physical_address_id
+ join order_item ori on ori.order_id = ore.order_id
+ join menu_item mi on mi.menu_item_id = ori.menu_item_id ) SELECT cte.city as city, cte.item as pizza_list, cte.order_id, count(cte.city) as cnt , count(cte.order_id) as cntorder FROM cte group by cte.city, cte.item, cte.order_id order by cntorder desc
+
+
+  select * from 
+(with cte as (select mi.item , pa.city, pa.physical_address_id, ore.order_id, st.store_id from order_record ore
+ join store st on st.store_id = ore.store_id 
+ join physical_address pa on pa.physical_address_id = st.physical_address_id
+ join order_item ori on ori.order_id = ore.order_id
+ join menu_item mi on mi.menu_item_id = ori.menu_item_id ) SELECT cte.city as city,cte.item as pizza_list, COUNT(cte.city) FROM cte group by cte.city, cte.item
+ ) as T1
+  

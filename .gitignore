@@ -1,0 +1,6 @@
+readpandasfile/venv/
+ipynb_checkpoints
+ipynb_checkpoints/
+[a-zA-Z]checkpoint/
+venv/
+.idea/

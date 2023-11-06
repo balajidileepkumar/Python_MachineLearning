@@ -1,0 +1,26 @@
+<h1>Hello World! Welcome to Django</h1>
+<h2>{{user4}}  Welcome to Django</h2>
+<h3>{{user3}} Welcome to Django</h3>
+<h4>{{user2}} -  Welcome to Django</h4>
+<h4>{{user1}} and  welcome to Django</h4>
+<br>
+<h1>Password Generator</h1>
+<!--<form action="{% url 'password' %}">-->
+<form action="{% url 'password' %}">
+    <select name="length">
+        <option value="6">6</option>
+        <option value="7">7</option>
+        <option value="8">8</option>
+        <option value="9">9</option>
+        <option value="10">10</option>
+        <option value="11">11</option>
+        <option value="12">12</option>
+    </select>
+    <br>
+    <input type="checkbox" name="uppercase">uppercase</input>
+    <br>
+    <input type="checkbox" name="specialchars">Special Chars</input>
+    <br>
+    <input type="checkbox" name="numbers">numbers</input>
+    <input type="submit" value="generate password"></input>
+</form>

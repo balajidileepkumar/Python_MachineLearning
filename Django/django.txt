@@ -256,9 +256,19 @@ CAP theorem,
  polymorphism in python
   
  
+ different ways to combine dataframes in python
+
+
+write a logic to find 
+2^5 = 32 and its sum = 3+2 = 5
+similarly find sum of integer characters in 2^1000
+
+
+write logic to print * decorator
+
+
  
- 
- 
+why do we use container  
  
  
  

@@ -1,0 +1,177 @@
+how to read a 3gb file in python and do the frequency distribution of words?
+how to handle concurrency in ticket booking django?
+how to update the UI in django without refreshing?
+how read excel file in pandas and remove duplicate rows for two columns?
+create the twitter like architecture using python web app?
+how to setup load balancer for flask application?
+how to scale your django or flask application?
+queues in django?
+what is gatewayapi and apigateway?
+how do you deploy your application in aws?
+what is monolithic application?
+what is monolithic vs soa?
+benefits of service oriented architecture?
+difference between generator and iterator?
+how to improve performance of database?
+
+how do u make ur web application handle billions of end user requests?
+what is the use of docker in django?
+what is the ideal response time of web application?
+what is the accuracy of your models?
+what is blackbox testing in machine learning?
+how to take care of packages in jenkins deployment?
+why do we use redis server to improve performance?
+have you worked with graphql?
+what is api gateway and gateway api?
+how is pipelining achieved using dask,spark?
+how distributed architectures work with django sqa, rabbitmq, celery?
+what is sprint zero?
+what is sprint review and sprint retrospective?
+how to do async operations in python?
+write a code for primary number in python?
+how to make no authorizaton for certain enpoints in flask application? the user is authenticated and no authentication is required for certain end point?
+sql query to pull the reporters of for an employee provided employee name?
+sql quyer to pull the boss of an employee provided employee name?
+
+what is a .pyc file?
+.pyc is the compiled bytecode of the imported module, when .pyc file is present python 
+	virtual machine executes it, if not program finds the .py file and compiles it to .pyc file.
+Python checks to see if the .pyc file's internal timestamp is not older than the corresponding .py
+
+At the simple level, a .pyc file is a binary file containing only three things:
+A four-byte magic number,
+A four-byte modification timestamp, and
+A marshalled code object.
+
+difference between list and tuples?
+list is mutable,indexed, ordered collection of items
+tuple is immutable, unindexed, ordered collection of items
+
+ 
+https://stackoverflow.com/questions/13694034/is-a-python-list-guaranteed-to-have-its-elements-stay-in-the-order-they-are-inse
+
+difference between set and list?
+list is mutable,indexed, ordered collection of items
+set is unordered, mutable, unindexed collection of items
+
+what is a dictionary?
+dictionary is a collection of key value pairs, dictionaries are ordered in the recent version of python
+
+what is an iterator?
+iterator is an object that contains countable number of values, 
+iterator has to implement the iterator protocol iter and next
+
+what is a generator?
+generator is an object that lets us iterate via a function
+generator uses yield keyword instead of a return 
+
+difference between iterator and generator?
+every generator is an iterator, but not every iterator is a generator.
+generators saves the state of the local variables
+
+what are python arrays?
+https://docs.python.org/3/library/array.html
+import array
+sample_array = array.array(typecode, [1,2,3])
+typecode refer in the above link
+b,B,u, h, H, i, I,L,q,f,Q,d
+d double 
+i signed int 
+I unsigned int
+q signed long logn
+L unsigned Long
+
+what is async operations in python?
+asyncio is used for parallelism, threading, concurrency
+asycio uses await and asyc, await is used in the function 
+
+what is difference between private, protected and public attributes and methods in python?
+private __, strictly called within the class
+protected _ called within and outside the class by its child classes
+public called only by its instances
+
+
+
+region -> market -> os -> instance (retrieving data)
+new datastructure 
+push into elastic 
+ui rest 
+
+{"region": 
+	{
+		
+
+	}
+	
+	
+how do you ensure either rollback or complete in swiggy kind of order in python?
+what are the ways to load a data to the flask api?
+how do you validate the data in a flask api?
+how do one microservice communicate with other microservice?
+https://levelup.gitconnected.com/4-ways-to-establish-communication-between-microservices-984207f29497 
+
+Name : D.SEVVANDHI
+E-mail : sevvandhi8102@gmail.com
+Phone number : 8667841083
+Address : 1/19, East street, Asoor (po) ,kunnam (tk), perambalur(dt),pin
+number-621708.
+
+
+Education
+
+Sasurie college of engineering
+2017-2021
+BE(Electrical and Electronics Engineering)
+7.CGPA
+
+Vaanpugal valluvar higher secondary school, othiyam
+2017
+HSC
+74/-
+
+Vaanpugal valluvar higher secondary school, othiyam
+2015
+SSLC
+85.6/
+
+Personal Details: 
+Date of Birth : 17-06-2000
+Marital Status : Unmarried
+Nationality : Indian
+Gender : Female
+Father's Name : Mr. Devendhiran
+Mother's Name : Mrs.Chinnapillai
+
+Hobbies : 
+Drawing, cooking
+
+Projects
+Electric lineman safety by introducing security mode of power transmission
+To avoid the accident for lineman while they are in working area.
+To turn on the electricity line with the knowledge of electric lineman.
+
+
+  
+region -> market -> os -> instance (retrieving data)
+new datastructure 
+push into elastic 
+ui rest 
+
+{"region": 
+	{
+		
+
+	}
+	
+	
+how do you ensure either rollback or complete in swiggy kind of order in python?
+what are the ways to load a data to the flask api?
+how do you validate the data in a flask api?
+how do one microservice communicate with other microservice?
+https://levelup.gitconnected.com/4-ways-to-establish-communication-between-microservices-984207f29497 
+
+
+
+
+
+
